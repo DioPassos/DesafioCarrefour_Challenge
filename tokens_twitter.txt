@@ -1,7 +1,7 @@
-consumer_key= nRH62HlSnjHqmoKRoQiG9bMIA
-consumer_secret=N2QA2IQ5X2Kwa5lG3MR8CU9tFzAkMkQIgJ8sdTE6ZHfuLnPWX7
-access_token=1437844849265422344-FitL8uf9e2Fz5XSP5iLiMRVYGco7yV
-access_token_secret=KYfBeDVZ42UnDlcvuUuYHFSLIvnMAPCwCsqFCF4F5JKoK
+consumer_key=""
+consumer_secret=""
+access_token=""
+access_token_secret=""
 
 
 
